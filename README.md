@@ -70,5 +70,5 @@ Here’s a glimpse of the application in action:
 
 ▶ [Click here to watch the demo video](https://drive.google.com/file/d/1g79F9WblsCFzwHGB7w-nfxU0w2b013cr/view?usp=drivesdk)
 
-## Contributors
+## Author
 - Developed by **Priyanka Balla**.
