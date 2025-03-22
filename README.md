@@ -12,13 +12,13 @@ This project is an AI-powered resume screening and ranking system that extracts 
 
 ## Screenshots
 ### *1. Home Page*
-![Home Page](output/Screenshot1.png)
+![Home Page](output/home.png)
 
-### *2. Uploading Resumes*
-![Upload Section](screenshots/upload.png)
+### *2. Enter Job Description & Uploading Resumes*
+![Upload Section](output/upload.png)
 
 ### *3. Ranked Resumes*
-![Ranked Resumes](screenshots/ranking.png)
+![Ranked Resumes](output/ranking.png)
 
 ## Tech Stack
 - **Backend:** Python
@@ -64,17 +64,6 @@ pip install PyPDF2 scikit-learn pandas streamlit
 
 2. Enter a job description and Upload resumes.
 3. View ranked resumes based on relevance.
-
-## Folder Structure
-
-```
-AI_Resume_Ranking/
-│── app.py               # Main Streamlit app
-│── requirements.txt      # Dependencies
-│── data/                # Sample resumes
-│── models/              # Trained models (if any)
-│── README.md            # Project documentation
-```
 
 ## Demo 
 Here’s a glimpse of the application in action:
