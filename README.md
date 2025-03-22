@@ -10,6 +10,16 @@ This project is an AI-powered resume screening and ranking system that extracts 
 - Compute similarity scores using **cosine similarity**.
 - Display ranked resumes based on relevance.
 
+## Screenshots
+### *1. Home Page*
+![Home Page](output/Screenshot1.png)
+
+### *2. Uploading Resumes*
+![Upload Section](screenshots/upload.png)
+
+### *3. Ranked Resumes*
+![Ranked Resumes](screenshots/ranking.png)
+
 ## Tech Stack
 - **Backend:** Python
 - **Frontend:** Streamlit
@@ -66,12 +76,10 @@ AI_Resume_Ranking/
 │── README.md            # Project documentation
 ```
 
-## Screenshots
-![resumeranking](output/Screenshot 1)
-![resumeranking](output/Screenshot 2)
-![resumeranking](output/Screenshot 3)
+## Demo 
+Here’s a glimpse of the application in action:
+
+▶ [Click here to watch the demo video](https://drive.google.com/file/d/1g79F9WblsCFzwHGB7w-nfxU0w2b013cr/view?usp=drivesdk)
 
 ## Contributors
-- **Saomya Chaudhury** (Supervisor/Mentor)
-- **Pavan Kumar** (Program Manager)
-- **Priyanka Balla** (Developer)
+- Developed by **Priyanka Balla**.
